@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1, "id": "astral", "version": "${version}", "name": "Astral",
+  "description": "Open-world kingdoms, reputation and Lawmakers, powered by HeroBot.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.astral.AstralMod"],
+    "client": ["com.astral.client.AstralClient"]
+  },
+  "depends": { "fabricloader": ">=0.18.0", "minecraft": "~1.21.11", "fabric-api": "*" }
+}

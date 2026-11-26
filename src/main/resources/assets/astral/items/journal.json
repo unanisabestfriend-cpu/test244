@@ -1,0 +1,1 @@
+{ "model": { "type": "minecraft:model", "model": "astral:item/journal", "tints": [ { "type": "minecraft:constant", "value": 4609584 } ] } }
